@@ -1,0 +1,398 @@
+﻿*{			
+	margin:0;
+	padding:0;
+	outline:0;
+}
+#all{
+margin: auto;
+background: #ffffff;
+width: 1180px;
+}
+header{
+overflow: hidden;
+background: url(../img/logo.jpg);
+width: 1180px;
+height: 155px;
+}
+.search{
+float:right;
+background:url(../img/searchBg.png) no-repeat top center;
+height:45px;
+width:400px;
+padding:6px 20px;
+}
+.search1{
+float:left;
+background:url(../img/searchBg.png) no-repeat top left;
+height:45px;
+width:500px;
+padding:6px 20px;
+
+}
+.searchBt1 {
+	background:url(../img/searchBtBg.png) no-repeat center bottom;
+	width:91px;
+	height:28px;
+	color:#ffffff;
+	border:none;
+	padding:3px 15px 3px 0px;
+	/*float:left;*/
+	cursor:pointer;
+	font-family:"Tempus Sans ITC";
+	font-weight:bold;
+	
+}
+input{
+margin:0px 0px;	
+}
+
+.txt input{
+	border:1px solid #b0c5a4;
+	height:25px;
+	padding:5px;
+	width:285px;
+	float:left;
+}
+
+.searchBt input{
+	background:url(../img/searchBtBg.jpg) no-repeat center bottom;
+	width:97px;
+	height:25px;
+	color:#ffffff;
+	border:none;
+	padding:3px 15px 3px 0px;
+	float:right;
+	cursor:pointer;
+	font-family:"Tempus Sans ITC";
+	font-weight:bold;
+}
+nav{
+	font-family:"Tempus Sans ITC";
+    font-size: 1.3em;
+	font-weight:bold;
+    height: 250px;
+	position: relative;
+	
+}
+nav ul {
+     background: -moz-linear-gradient(center top , #ffffff, #555555) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 1px 2px #000000;
+    height: 40px;
+    margin-top: 1px;
+    width: 100%;
+}
+nav ul li ul {
+    display: none;
+}
+nav ul li ul {
+    font-size:16px;
+}
+nav ul li {
+	
+    float: left;
+    height: 30px;
+    list-style: none outside none;
+    position: relative;
+}
+nav ul li a {
+    color: #333333;
+    display: block;
+    height: 23px;
+    padding: 7px 65px 10px;
+    text-decoration: none;
+}
+nav ul li:hover a {
+    background: -moz-linear-gradient(center top , #111111, #444444 50%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-top: 3px solid #cccccc;
+    color: #FFFFFF;
+    height: 23px;
+    padding-top: 4px;
+}
+nav ul li:hover ul {
+
+    box-shadow: 0 0 2px #000000;
+    display: block;
+    left: 50%;
+    margin-left: -22px;
+    position: absolute;
+    top: 35px;
+    z-index: 100;
+}
+}
+nav ul li ul:before {
+    border-bottom: 10px solid #00CC99;
+    border-left: 10px solid rgba(0, 0, 0, 0);
+    border-right: 10px solid rgba(0, 0, 0, 0);
+    content: "";
+    height: 0;
+    left: 10px;
+    position: absolute;
+    top: -5px;
+    width: 0;
+}
+nav ul li:nth-child(2) ul:before {
+    border-bottom-color: #0099CC;
+    content: "";
+}
+nav ul li ul {
+    border-radius: 5px 5px 5px 5px;
+    height: auto;
+    padding: 5px 0;
+    width: auto;
+}
+nav ul li ul li {
+    float: none;
+    height: 30px;
+    white-space: nowrap;
+}
+nav ul li ul li a:hover {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+	color:black;
+}
+#nav1{
+    font-family:"Tempus Sans ITC";
+    font-size: 1.3em;
+    font-weight:bold;
+    height: 250px;
+    position: relative;
+    
+}
+#nav1 ul {
+     background: -moz-linear-gradient(center top , #ffffff, #555555) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 1px 2px #000000;
+    height: 40px;
+    margin-top: 1px;
+    width: 100%;
+}
+#nav1 ul li ul {
+    display: none;
+}
+#nav1 ul li ul {
+    font-size:16px;
+}
+#nav1 ul li {
+    
+    float: left;
+    height: 30px;
+    list-style: none outside none;
+    position: relative;
+}
+#nav1 ul li a {
+    color: #333333;
+    display: block;
+    height: 23px;
+    padding: 5px 50px 6px;
+    text-decoration: none;
+}
+#nav1 ul li:hover a {
+    background: -moz-linear-gradient(center top , #111111, #444444 50%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-top: 3px solid #cccccc;
+    color: #FFFFFF;
+    height: 23px;
+    padding-top: 4px;
+}
+
+aside {
+	width: 290px;
+	height: 230px;
+	margin: 10px;
+	padding-bottom:0;
+	padding-top:10px;
+	font-family:"Tempus Sans ITC";
+	font-weight:bold;
+}
+aside ul {
+padding-top:10px;
+}
+aside ul h3{
+text-align:center;
+font-size:30px;
+color:gray;
+text-shadow: 1px 1px 10px #CDBE9F, 0 0 1.3em #BEAE8C, 0 0 0.2em #b6a684;
+
+}
+aside li a {
+	height: 32px;
+  	voice-family: "\"}\"";
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+}
+
+aside li a:link, aside li a:visited {
+	color: #FFF;
+	display: block;
+	background:  url(../img/menu5.jpg);
+	padding: 8px 0 0 10px;
+}
+
+aside li a:hover {
+	color: #666666;
+	background:  url(../img/menu5.jpg) 0 -32px;
+	padding: 8px 0 0 10px;
+}
+aside ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+aside{
+float:right;
+
+}
+.ex1 li {  
+    display: inline;  
+}  
+.ex1 li a {  
+    display: inline-block;  
+    height: 200px;  
+    width: 210px;  
+    text-align: center;  
+    background: white;  
+    padding: 5px 10px;  
+    margin: 0 20px;  
+    color: #615334;  
+    text-decoration: none;  
+    line-height: 1em;  
+    background: -moz-linear-gradient(center bottom , #DACDB1 11%, #F0E8D8 56%) repeat scroll 0 0 #F0E8D8;  
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0.3, #DACDB1),color-stop(0.65, #F0E8D8));  
+    -moz-box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 3px #816F47;  
+    -webkit-box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 3px #816F47;  
+    box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 3px #816F47;  
+    -moz-transition: all 0.3s ease-out;  
+    -webkit-transition: all 0.3s ease-out;  
+    transition: all 0.3s ease-out;  
+}  
+.ex1 a:hover,  
+.ex1 a:focus {  
+    transform: scale(1.2);  
+    box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 15px #b6a684;  
+}
+body{
+border: 10px solid #cccccc;
+box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 15px #b6a684;  
+
+}  
+aside{
+margin-top:50px;
+border: 10px solid #cccccc;
+box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 15px #b6a684;  
+
+}  
+article{
+
+margin-top:50px;
+padding:10px;
+padding-top:20px;
+padding-bottom:20px;
+float:left;
+border: 4px solid #cccccc;
+box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 15px #b6a684;  
+
+}
+.ex1{
+text-shadow: 1px 1px 10px #CDBE9F, 0 0 1.3em #BEAE8C, 0 0 0.2em #b6a684;
+color: white;
+text-align:center;
+font: 2em "Rockwell";
+font-size:24px;}
+.h1 {
+  animation-duration: 1s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+ animation-direction: alternate;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 6%;
+      width: 300%;
+	  
+    }
+    
+    to {
+      margin-left: 0%;
+      
+      width: 100%;
+    }
+	
+  }
+ 
+section .h1{
+text-shadow: 1px 1px 10px #CDBE9F, 0 0 1.3em #BEAE8C, 0 0 0.2em #b6a684;
+color: white;
+font: 2em "Tempus Sans ITC";
+font-weight:bold;
+font-size:90px;
+}
+article .bienvenue{
+text-align:center;
+text-shadow: 1px 1px 10px #ffffcc, 0 0 1.3em #ffff99, 0 0 0.2em #ffffff;
+color:white;
+font: 2em "Tempus Sans ITC";
+font-weight:bold;
+font-size:40px;
+  background: #cccccc;
+    padding: 30px;
+    margin-top: 30px;
+	}
+article .paragraph{
+text-align:center;
+text-shadow: 1px 1px 10px #ffffcc, 0 0 1.3em #ff9900, 0 0 0.2em #ffffcc;
+color:white;
+font: 2em "Tempus Sans ITC";
+font-weight:bold;
+font-size:40px;
+  background: #999999;
+    padding: 30px;
+    margin-top: 30px;
+}
+.lateral{
+    padding: 70px;
+    font: 1em sans-serif;
+}
+.lateral h2{
+    text-shadow: 1px 1px 10px #CDBE9F, 0 0 1.3em #BEAE8C, 0 0 0.2em #b6a684;
+color: white;
+text-align:center;
+font: 5em "Tempus Sans ITC";
+font-weight:bold;
+
+}
+.lateral #vdo-8{
+    background: #eee;
+    padding: 30px;
+    margin-top: 30px;
+	font: 1.1em "Tempus Sans ITC";
+	font-weight:bold;
+}
+.lateral .float{
+
+float: right;
+
+}
+
+footer {
+	
+	position: relative;
+	bottom:0px;
+	/*margin-top: -150px; /* negative value of footer height */
+	height: 250px;
+	clear:both;
+	width:1160px;
+	box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 15px #b6a684;  
+	text-shadow: 1px 1px 10px black, 0 0 1.3em black, 0 0 0.2em black;
+color:#ffffcc;
+font: 2em "Tempus Sans ITC";
+font-weight:bold;
+font-size:30px;
+text-align: center;
+vertical-align:middle;}
+footer a{
+text-decoration:none;
+color:silver;
+} 
+footer img{
+padding-right:140px;
+padding-left:140px;
+} 

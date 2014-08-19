@@ -1,0 +1,67 @@
+============================Les r�servations===========================
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 24/05/2013
+retour :  12/06/2013
+ categorie :   citadine
+km :  200km
+age : 22
+Mode de paiement : 1
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-13
+retour :  2013-12-20
+ categorie :   confort
+km :  200km
+age : 26
+Mode de paiement : 1
+
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-06
+retour :  2013-12-13
+ categorie :   luxe
+km :  200
+age : 23
+Mode de paiement : 1
+
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-06
+retour :  2013-12-13
+ categorie :   luxe
+km :  200
+age : 23
+Mode de paiement : cheque
+
+
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-08
+retour :  2013-12-27
+ categorie :   affaires
+km :  952
+age : 32
+Mode de paiement : espece
+
+
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-08
+retour :  2013-12-27
+ categorie :   affaires
+km :  952
+age : 32
+Mode de paiement : espece
+
+
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-13
+retour :  2013-12-07
+ categorie :   economique
+km :  56
+age : 54
+Mode de paiement : carte
+
+
++++++++++++++++++++++++++++La réservation :+++++++++++++++++++++++++++++++
+depart : 2013-12-14
+retour :  2013-11-29
+ categorie :   citadine
+km :  66
+age : 5
+Mode de paiement : cheque

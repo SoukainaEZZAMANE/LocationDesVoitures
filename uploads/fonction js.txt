@@ -1,0 +1,10 @@
+$(document).ready( function() {
+	$('#header').addClass(‘rouge’);
+	$('#footer').addClass(‘noir’);
+});
+
+<script>
+$("button").click(function () {
+$("p").remove(":contains('Hello')");
+});
+</script>

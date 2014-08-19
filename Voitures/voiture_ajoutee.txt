@@ -1,0 +1,170 @@
+=======================Les voitures ajout�es===========================
+
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : PORSCHE CAYENNE
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 9
+ Capacité bagages : 120 KG
+ Age min conducteur : 25
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/Porsche_12_Cayenne.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : Ford Fiesta
+ Immatriculation : 1526-48-85
+ Version : 2012
+ Nbr_portes : 4
+ Climatisation : OUI
+ Nombre de passagers : 5
+ Capacité bagages : 70 kg
+ Age min conducteur : 21 ans
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : uploads/voiture_Ford_Fiesta.jpg
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : ford
+ Immatriculation : 
+ Version : 
+ Nbr_portes : 
+ Climatisation : 
+ Nombre de passagers : 
+ Capacité bagages : 
+ Age min conducteur : 
+ Air Bag : non
+ Le chemin de l'image de voiture est le suivant  : 
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : ford
+ Immatriculation : 459-87-98
+ Version : 1001
+ Nbr_portes : 4
+ Climatisation : oui
+ Nombre de passagers : 7
+ Capacité bagages : 123
+ Age min conducteur : 21
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : 
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : ford
+ Immatriculation : 459-87-98
+ Version : 1001
+ Nbr_portes : 7
+ Climatisation : oui
+ Nombre de passagers : 5
+ Capacité bagages : 65
+ Age min conducteur : 21
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : 
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : ford
+ Immatriculation : 459-87-98
+ Version : 1001
+ Nbr_portes : 7
+ Climatisation : oui
+ Nombre de passagers : 5
+ Capacité bagages : 65
+ Age min conducteur : 21
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : 
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : ford
+ Immatriculation : 459-87-98
+ Version : 1001
+ Nbr_portes : 7
+ Climatisation : oui
+ Nombre de passagers : 5
+ Capacité bagages : 65
+ Age min conducteur : 21
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : 
+
++++++++++++++++++++++++++++La voiture :+++++++++++++++++++++++++++++++
+ Marque : ford
+ Immatriculation : 459-87-98
+ Version : 1001
+ Nbr_portes : 7
+ Climatisation : oui
+ Nombre de passagers : 5
+ Capacité bagages : 65
+ Age min conducteur : 21
+ Air Bag : oui
+ Le chemin de l'image de voiture est le suivant  : 
